@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🤗 You can call me **Ma Nan**
+- 🤗 You can call me **Nan**
 
 - 💼 I'm running a studio named [**Omoo Lab**](https://www.behance.net/omoolab), which provides biomedical visualization services in China, including medical product promotional videos, exhibition brochures, etc.
 
